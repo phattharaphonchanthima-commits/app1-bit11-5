@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={homeStyle.container}>
       {/* ใส่ข้อความ */}
-      <Text style={homeStyle.title}>Phattharaphon</Text>
+      <Text style={homeStyle.title}>Phattharaphon Chanthima</Text>
 
       {/* ใส่ภาพจากไฟล์ */}
       <Image
@@ -33,7 +33,7 @@ export default function App() {
 
         {/* เรียงวัตถุแนวนอน ซ้ายไปขวา */}
         <View style={{flexDirection: "row"}}>
-          <Text>Mei Mei</Text>
+          <Text>Mei Mei1</Text>
           <Text> Snow Leopard</Text>
         </View>
 
